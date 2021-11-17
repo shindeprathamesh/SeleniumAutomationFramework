@@ -24,8 +24,7 @@ public class BankManagerLoginTest extends TestBase{
 		Assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("addCustBtn_XPATH"))), "Login Failed!");
 		
 		log.debug("Login Successfully Executed");
-		
-		Assert.fail("Login not successful");
+	
 		
 	}
 
