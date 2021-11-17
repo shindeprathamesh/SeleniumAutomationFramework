@@ -1,0 +1,10 @@
+com\cg\rough\TestProperties.class
+com\cg\testcases\BankManagerLoginTest.class
+com\cg\utilities\TestUtil.class
+com\cg\base\TestBase.class
+com\cg\utilities\ExtentManager.class
+com\cg\listeners\CustomListeners.class
+com\cg\testcases\AddCustomerTest.class
+com\cg\utilities\ExcelReader.class
+com\cg\rough\TestTimeStamp.class
+com\cg\testcases\OpenAccountTest.class
